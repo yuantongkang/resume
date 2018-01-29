@@ -93,6 +93,7 @@ var md = `
 
 熟悉 JavaScript CSS(flex layout & float layout),熟悉 React + Redux + mobX 技术栈，了解 Vue 技术栈。
 熟悉模块化开发，能用 glup 和 webpack 完成工程化开发，并部署项目。有能力造一些简单的轮子
+了解 http 相关知识，熟悉 git 操作，对 Linux 有一定的认识。
 
 # 项目介绍
 
